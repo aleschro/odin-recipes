@@ -1,0 +1,28 @@
+.foods {
+  list-style-type: none;
+  font-size: 24px;
+}
+
+a {
+  text-decoration: none; /*remove underline from links*/
+}
+
+h1 {
+  font: 36px 'Exo 2', sans-serif
+}
+
+h2 {
+  /* font-weight: bold;
+  font-size: 24px; */
+  font: 24px bold 'Montserrat Alternates', sans-serif;
+}
+
+img {
+  border-radius: 20px;
+  border: 0.2em solid #3d8e3e;
+}
+
+body {
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
